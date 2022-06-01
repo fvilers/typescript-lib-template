@@ -1,0 +1,19 @@
+{
+  "name": "typescript-lib-template",
+  "version": "0.0.0",
+  "description": "A TypeScript library template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/typescript-lib-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "typescript-library"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/typescript-lib-template/issues"
+  },
+  "homepage": "https://github.com/fvilers/typescript-lib-template#readme"
+}
