@@ -5,6 +5,7 @@ describe("sayHello", () => {
   afterEach(() => {
     jest.restoreAllMocks();
   });
+
   test("should say hello to the console", () => {
     // Arrange
     const spy = jest.spyOn(console, "log");
